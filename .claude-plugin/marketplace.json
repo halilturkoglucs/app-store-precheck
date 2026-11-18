@@ -1,0 +1,12 @@
+{
+  "name": "app-store-precheck",
+  "owner": { "name": "halilturkoglucs" },
+  "description": "Pre-submission checks for mobile apps.",
+  "plugins": [
+    {
+      "name": "app-store-precheck",
+      "source": "./",
+      "description": "Check an iOS or Android app against Apple App Review Guidelines and Google Play policy before you submit."
+    }
+  ]
+}

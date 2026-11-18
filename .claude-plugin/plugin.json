@@ -1,0 +1,24 @@
+{
+  "name": "app-store-precheck",
+  "displayName": "App Store & Google Play Precheck",
+  "version": "1.0.0",
+  "description": "Check an iOS or Android app against Apple App Review Guidelines and Google Play policy before you submit, with a pass or fail result and evidence for each item.",
+  "author": {
+    "name": "halilturkoglucs",
+    "url": "https://github.com/halilturkoglucs"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ios",
+    "android",
+    "app-store",
+    "google-play",
+    "app-review",
+    "compliance"
+  ],
+  "homepage": "https://github.com/halilturkoglucs/app-store-precheck",
+  "documentationUrl": "https://github.com/halilturkoglucs/app-store-precheck#readme",
+  "supportUrl": "https://github.com/halilturkoglucs/app-store-precheck/issues",
+  "privacyPolicyUrl": "https://github.com/halilturkoglucs/app-store-precheck/blob/main/PRIVACY.md",
+  "icon": ".claude-plugin/icon.png"
+}
